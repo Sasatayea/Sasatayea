@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fintuji.com%2Fwhat-is-mysql-definition-comparision-with-sql-benefits-features-explained%2F&psig=AOvVaw1gBLcNpiWKToTEDDTYvQ2z&ust=1736454645247000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDmhOj75ooDFQAAAAAdAAAAABAE)" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
