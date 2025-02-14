@@ -35,7 +35,17 @@
 
 ###
 
-<p align="left">I'm Mostafa salah from Egypt<br><br>- 🔭  I’m working as a Software Engineer and contributing to backend for building web applications by using Spring Boot<br>- 📚 Exploring Technical Content Writing.<br>- ⚡ I In my free time, I solve problems on GeeksforGeeks and read tech articles.</p>
+<p align="left">
+  I'm Mostafa salah from Egypt
+  <br><br>
+  - 🔭  I’m working as a Software Engineer and contributing to backend for building web applications by using Spring Boot
+  <be>
+  - 📚 Exploring Technical Content Writing.
+  <be>
+  - ⚡ I In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - 📫 How to reach me: [memosalah553@gmail.com](mailto:memosalah553@gmail.com)
+  - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-salah-tayea-000129196)
+  </p>
 
 ###
 
@@ -66,14 +76,14 @@
 </div>
 
 ###
+## 🚀 My Projects
 
-<h3 align="left">🔥   My Stats :</h3>
+| Project Name                        | Description                                                                                               | Tech Stack                                 | Repository Link                                                            |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------|
+| **Expense Tracker System**          | Web app for tracking personal and business expenses                                                       | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Expense_Tracker_System)              |
+| **Task Management API**             | REST API for managing tasks and to-do lists                                                               | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Task_Management_API)                 |
+| **Library System**                  | API for managing library resources, patrons, and book borrowings                                          | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Library-System)                      |
+| **Secured Shopping Cart**           | E-commerce platform with secured checkout and user authentication                                         | Java, Spring Boot, MySQL, Spring Security  | [Repo](https://github.com/Tasneem011/SecuredShoppingCart)                 |
+| **Diabetes Detection System**       | Detects diabetic retinopathy in retinal images to prevent vision impairment using advanced deep learning  | PHP, TensorFlow/Keras, Image Processing    | [Repo](https://github.com/Tasneem011/Graduation-Project)                  |
+| **E-commerce Shopping Cart**        | Console-based e-commerce system with product listings, cart, and checkout functionality                   | Java, OOP                                  | [Repo](https://github.com/Tasneem011/E-commerce-Shopping-Cart)            |
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sasatayea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sasatayea&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
