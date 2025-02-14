@@ -35,17 +35,13 @@
 
 ###
 
-<p align="left">
   I'm Mostafa salah from Egypt
   <br><br>
   - 🔭  I’m working as a Software Engineer and contributing to backend for building web applications by using Spring Boot
-  <be>
   - 📚 Exploring Technical Content Writing.
-  <be>
   - ⚡ I In my free time, I solve problems on GeeksforGeeks and read tech articles.
   - 📫 How to reach me: [memosalah553@gmail.com](mailto:memosalah553@gmail.com)
   - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-salah-tayea-000129196)
-  </p>
 
 ###
 
