@@ -40,8 +40,6 @@
   - 🔭  I’m working as a Software Engineer and contributing to backend for building web applications by using Spring Boot
   - 📚 Exploring Technical Content Writing.
   - ⚡ I In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  - 📫 How to reach me: [memosalah553@gmail.com](mailto:memosalah553@gmail.com)
-  - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-salah-tayea-000129196)
 
 ###
 
